@@ -1,2 +1,2 @@
 # intro-to-github
-intro to github for AP CSP 
+My first GitHub repository for PLTW Computer Science
